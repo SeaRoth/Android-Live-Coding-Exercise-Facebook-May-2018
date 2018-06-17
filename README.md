@@ -30,16 +30,16 @@ too long
 two hundred thirty four billion two hundred thirty four million two hundred thirty four thousand two hundred thirty four
 
 
-### Final variables
+### Final variables & main
 ![Question](https://i.imgur.com/ee8xQbL.png)
 
-### Find string for less than one thousand
+### number < 1000
 ![JSON](https://i.imgur.com/ww5i4dt.png)
 
-### Find the string representation
+### 999 < number < 1 trillion
 ![JSON](https://i.imgur.com/OPo9QCL.png)
 
-### Find the string representation cont.
+### cont.
 ![JSON](https://i.imgur.com/jowwWpI.png)
 
 ### Unit Tests
